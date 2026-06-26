@@ -2,15 +2,15 @@
   "version": "2.6.2",
   "summary": {
     "title": "New Threat Model",
-    "owner": "",
-    "description": "",
+    "owner": "benjamin",
+    "description": "Hi",
     "id": 0
   },
   "detail": {
     "contributors": [],
     "diagrams": [],
     "diagramTop": 1,
-    "reviewer": "",
+    "reviewer": "benjamin",
     "threatTop": 0
   }
 }
